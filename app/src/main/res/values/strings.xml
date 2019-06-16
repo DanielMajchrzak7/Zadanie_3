@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zadanie_3</string>
+    <string name="zadaj_mi_pytanie">Zadaj mi pytanie :).</string>
+    <string name="textview">TextView</string>
+    <string-array name="odpowiedzi">
+        <item>Moje źródła mówią, że nie.</item>
+        <item>Bez wątpienia.</item>
+        <item>Nie teraz, zarobiony jestem.</item>
+        <item>No raczej bykuuuu.</item>
+        <item>Tak.</item>
+        <item>Nie.</item>
+        <item>Może.</item>
+        <item>Powiem tak, NIE!</item>
+        <item>W sumie to się nie znam.</item>
+        <item> Myślę, że tak</item>
+    </string-array>
+</resources>
